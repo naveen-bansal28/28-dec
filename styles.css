@@ -1,0 +1,149 @@
+body{
+    margin:0;
+    padding:0;
+    background-color: rgb(215,248,189);
+    color:rgb(139,101,71);
+    font:small arial,sans-serif;
+}
+#header{
+    background-color: rgb(166,227,117);
+    margin-bottom:2em;
+    }
+    #banana-leaf{
+        margin: -0.45em 0 1.5em 1.5em;
+    }
+    
+
+   
+#logo{
+    margin:0 1em 0.5em;
+    display: block;
+    background:url(../images/curl.gif)  100% 100% no-repeat;
+   padding:2em 0 1em 1em;
+    
+}
+#navlinks{
+    margin: 0;
+    padding: 0.5em 0 0.5em 1em;
+    background-color: rgb(121,135,147);
+    color: white;
+}
+#navlinks a{
+    color:rgb(133,207,73) ;
+}
+a{
+    text-decoration: none;
+} 
+#navlinks li{
+     display:inline;
+    font-weight:bold;
+    margin-right:1em;
+    padding-right:0.5em;
+    border-right:1px solid rgb(116,210,119);
+
+}
+
+#today{
+ color: white;
+    padding-right:1em ;
+    font-weight: bold;
+    text-align: right;
+    margin-top: -1.7em;
+}
+#content{
+    float:left;
+    padding: 0 0em 1em;
+    margin: 0;
+    margin-right: 1em;
+    width: 80%;
+}
+#content h1 b{
+    color: rgb(116,210,119);
+}
+#content {
+
+}
+#content h1{
+    background-color: white;
+    margin: 0em;
+    padding: 0.4em;
+
+
+}#content h2{
+    border-bottom: 1px solid rgb(116,210,119);
+    padding-bottom: 0.5em;
+}
+#content img.side{
+    float: left;
+    margin:1em;
+}
+#right-content{
+    float:left;
+    width: 18%;
+
+}
+#right-content form.text{
+    width: 10em;
+}
+#search{
+    margin: 0;
+    text-align: center;
+    padding: 4em;
+}
+#right-content form, #right-content h3{
+    background-color: rgb(154,179,201);
+    padding:0.5em;
+
+}
+
+ 
+
+
+#tod{
+    background-color: #5b5d4e;
+    color: white;
+    padding-bottom:1em;
+
+}
+ #tod h4,#tod p{
+    padding-left: 1em;
+    
+}
+#tod img{
+     display: block; 
+    margin: 0em auto;
+
+}
+ 
+#archive table{
+    margin: 0em auto;
+    font-size: smaller;
+    
+}
+#archive  td{
+    border: 1px solid gray;
+    background-color:#a5a69e;
+    color: black;
+}#archive a{
+    color: white;
+    font-weight: bold;
+
+}
+
+#archive{
+    background-color: #5b5d4e;
+    color: white;
+    padding-bottom: 1em;
+    margin-bottom: 3em;
+}
+
+#footer{
+    clear:both; 
+   background-color: rgb(116,210,119);
+    padding: 0.5em 1em;
+}
+ #footer p{
+    margin:0em;
+}    
+
+
